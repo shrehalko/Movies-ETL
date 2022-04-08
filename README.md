@@ -11,6 +11,7 @@ Performing Analysis on Election data in Colorado.
 - [Extract](#extract)
 - [Transform](#transform)
 - [Load](#load)
+- [Summary](#Summary)
 - [Resources](#resources)
 - [References](#references)
 
@@ -90,8 +91,7 @@ After performing the ETL process, the cleaned and structured data is stored in 2
 
 ## <a name="resources"></a> Resources
 [1] [Wikipedia webscrape data - in JSON format](wikipedia-movies.json) <br>
-[2] [Kaggle Data](archive/movies_metadata.csv) from  <br>
-[3] [Ratings Data](archive/ratings.csv)  <br>
+[2] [Kaggle Data - movies_metadata.csv and ratings.csv](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)  <br>
 
 [4] Software: 
 * Python 3.10.2
