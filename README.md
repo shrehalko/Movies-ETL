@@ -61,7 +61,7 @@ In the Extract phase we will extract the scraped Wikipedia data stored as a JSON
 
 The transform step is largely spent on data cleaning. We will use Python and Pandas to explore, document, and perform our data transformation. The below link contains the code for cleaning the Wiki data and the Kaggle data.
 
-[ETL_clean_wiki_movies.ipynb](Challenge/ETL_clean_kaggle_data.ipynb) <br>
+[ETL_clean_wiki_movies.ipynb](Challenge/ETL_clean_wiki_movies.ipynb) <br>
 [ETL_clean_kaggle_data.ipynb](Challenge/ETL_clean_kaggle_data.ipynb) <br>
 
 Below are the few steps we have followed to clean the data:
